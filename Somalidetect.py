@@ -57,12 +57,16 @@ sigs = [
     b'\x25psmodulepath:~'
     b'\x25godfather\x25',
     b'$eicar-standard-antivirus-test-file!',
-    b'::made by k.dot'
+    b'::made by k.dot',
+    b'::good luck deobfuscating',
+    b'::made with somalifuscator',
+    b'::discord.gg/batch',
+    b'::... --- -- .- .-.. .. ..-. ..- ... -.-. .- - --- .-. / --- -. / - --- .--.'
 ]
-
 
 if sigs[0] in data or sigs[1] in data and sigs[2] in data and sigs[3] in data and  \
     sigs[4] in data or sigs[5] in data or utf16mark and sigs[6] in data or sigs[7] \
+    in data or sigs[8] in data or sigs[9] in data or sigs[10] in data or sigs[11]  \
     in data:
 
     print("[*] Detected use of Somalifuscator!")
