@@ -68,3 +68,7 @@ if sigs[0] in data or sigs[1] in data and sigs[2] in data and sigs[3] in data an
     print("[*] Detected use of Somalifuscator!")
     time.sleep(10)
     sys.exit(0)
+else:
+    print("[*] Could not detect the use of Somalifuscator!")
+    time.sleep(10)
+    sys.exit(0)
