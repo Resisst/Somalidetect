@@ -9,7 +9,7 @@
 #
 # Use of this tool is governed by the GNU General Public License V3
 # which can be found in the LICENSE file or found online at the URL
-# https://www.gnu.org/licenses/gpl-3.0.en.html
+# https://www.gnu.org/licenses/gpl-3.0.txt
 #
 # -----------------------------------------------------------------------
 
